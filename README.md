@@ -1,6 +1,6 @@
 ## 👨🏾‍💻 Hi there!
 
-![Banner](./Banner.png)
+
 
 I'm Kenny. Aspiring Data Analyst with skills in data cleaning, exploration, and visualization. I enjoy working with data to find patterns, answer questions, and support better decisions.
 
