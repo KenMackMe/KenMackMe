@@ -27,4 +27,4 @@ Welcome to my portfolio, where I showcase my projects.
 
 ## 👋🏻 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/kenny-mackoumbou-baaa89319/) 
+- [LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/kenny-mackoumbou-baaa89319) 
