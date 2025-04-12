@@ -21,7 +21,7 @@ Welcome to my portfolio, where I showcase my projects.
 
 **Languages:** SQL, Python  
 **Database:** MySQL, BigQuery  
-**Visualization:** Excel, Tableau
+**Visualization:** Excel, Google sheets, Tableau
 
 ---
 
