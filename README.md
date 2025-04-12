@@ -2,7 +2,9 @@
 
 ![Banner](./kdb.jpg)
 
-I'm Kenny. Aspiring Data Analyst with skills in data cleaning, exploration, and visualization. I enjoy working with data to find patterns, answer questions, and support better decisions.
+I'm Kenny. I have a background in Information Technology and a growing interest in working with data. I'm currently completing a Bachelor of Science in Information Technology.
+I'm an aspiring Data Analyst with skills in data cleaning, exploration, and visualization. I enjoy working with data to uncover patterns, answer questions, and support better decision-making.
+
 
 - Querying data using SQL and Python  
 - Cleaning and organizing datasets  
