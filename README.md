@@ -28,3 +28,4 @@ Welcome to my portfolio, where I showcase my projects.
 ## 👋🏻 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/kenny-mackoumbou-baaa89319)
+- [Email](mailto:kennymackoumbou@gmail.com)
