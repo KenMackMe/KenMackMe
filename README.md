@@ -19,11 +19,12 @@ Welcome to my portfolio, where I showcase my projects.
 
 ## 🛠️ Tools
 
-**Language:** SQL, Python  
-**Database:** MySQL, SQLite  
-**Visualization:** Excel, Power BI  
-**Others:** Jupyter Notebook, GitHub
+**Languages:** SQL, Python  
+**Database:** MySQL, BigQuery  
+**Visualization:** Excel, Tableau
 
 ---
 
 ## 👋🏻 Connect with Me
+
+- [LinkedIn](www.linkedin.com/in/kenny-mackoumbou-baaa89319) 
