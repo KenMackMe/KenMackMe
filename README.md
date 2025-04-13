@@ -19,7 +19,8 @@ Welcome to my portfolio, where I showcase my projects.
 
 ## 🛠️ Tools
 
-**Languages:** SQL, Python 
+**Languages:**
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 **Database:** MySQL, BigQuery  
 **Visualization:** Excel, Google sheets, Tableau
