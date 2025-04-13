@@ -1,6 +1,6 @@
 ## 👨🏾‍💻 Hi there!
 
-![Banner](./kdb.jpg)
+![Banner](./image.png)
 
 I'm Kenny, an aspiring Data Analyst with a background in Information Technology. I enjoy working with data to uncover patterns, answer questions, and support better decisions.
 
