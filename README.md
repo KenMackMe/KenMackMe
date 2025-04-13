@@ -2,7 +2,7 @@
 
 ![Banner](./image.jpg)
 
-I'm Kenny, an aspiring Data Analyst with a background in Information Technology. I enjoy working with data to uncover patterns, answer questions, and support better decisions.
+I'm Kenny, an aspiring Data Analyst. I enjoy working with data to uncover patterns, answer questions, and support better decisions.
 
 - Querying data using SQL and Python  
 - Cleaning and organizing datasets  
